@@ -1,0 +1,21 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# OS metadata
+.DS_Store
+
+# Environment files
+.env
+
+# Model weights
+model/*.pth
+
+# Temporary data
+data/*.csv
+
+# Jupyter Notebooks 
+notebooks/*.ipynb_checkpoints/
+
+# VS Code settings 
+.vscode/
