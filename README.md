@@ -157,7 +157,7 @@ agent.load_model("model/cumulative_trader.pth")
 
 ---
 
-##  Future Work
+##  Future Work(This is a continuously evolving work)
 
 - Live inference on streaming market data
 - Web UI for uploading and visualizing tickers
