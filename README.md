@@ -99,7 +99,7 @@ Model is updated and saved to `model/cumulative_trader.pth` after every run. Run
 
 ---
 
-### Rule-Based vs RL Agent Trades  
+### Rule-Based Trade 
 <img src="figures/trade_viz.png" width="800">
 
 ---
