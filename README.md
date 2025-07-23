@@ -18,7 +18,7 @@ project-patterns/
 ├── main.py                    # Orchestrates the full pipeline
 │
 ├── agents/
-│   └── dqn_agent.py           # Deep Q-Network agent class
+│   └── dqn_agent.py           # Deep Q-Network agent class(Highly commented for clear explanations of basic learning models)
 │
 ├── data/
 │   └── sample_aapl.csv        # Example CSV file from yfinance
